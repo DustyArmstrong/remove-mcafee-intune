@@ -148,8 +148,8 @@ if (-not (Test-Path $DebloatFolder)) {
 }
 
 # Note: ServiceUI is no longer used.
-$McAfeeCleanZipUrl  = "https://github.com/nullifyac/McAfee_Removal/raw/refs/heads/main/mcafeeclean.zip"
-$McCleanupZipUrl    = "https://github.com/nullifyac/McAfee_Removal/raw/refs/heads/main/mccleanup.zip"
+$McAfeeCleanZipUrl  = "https://github.com/DustyArmstrong/remove-mcafee-intune/raw/refs/heads/main/mcafeeclean.zip"
+$McCleanupZipUrl    = "https://github.com/DustyArmstrong/remove-mcafee-intune/raw/refs/heads/main/mccleanup.zip"
 
 # Local file paths
 $McAfeeCleanZipPath = Join-Path $DebloatFolder "mcafeeclean.zip"
