@@ -16,7 +16,7 @@ _Package/
 
 ```
 
-Run the tool, select `_Package` as your input, and `_IntuneWin` as your output. This will create `mcafee_remediate.intunewin` in the `_IntuneWin` folder. 
+Run the tool, select `_Package` as your input, and `_IntuneWin` as your output. This will create `mcafee_remediate.intunewin` in the `_IntuneWin` folder. Select `mcafee_remediate.ps1` as your input file.
 
 ## Create the Application
 
